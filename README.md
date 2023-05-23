@@ -17,3 +17,6 @@ codesign --remove-signature /Applications/Lightshot\ Screenshot.app/
 ```
 ### Windows
 Lightshot on Windows does not record analytics to the same extent as it does on macOS.
+
+## Custom upload server
+// todo
